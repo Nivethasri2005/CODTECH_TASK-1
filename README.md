@@ -31,7 +31,6 @@ C++ compiler
 
 FUTURE IMPROVEMENTS
 
-1. Add more questions and categories
-2. Implement a scoring system based on question difficulty
-3. Add a timer for each question
+1. Add a timer for each question
+2. Add more questions and categories
 
