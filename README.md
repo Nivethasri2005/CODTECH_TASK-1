@@ -34,3 +34,9 @@ FUTURE IMPROVEMENTS
 1. Add a timer for each question
 2. Add more questions and categories
 
+OUTPUT
+
+![output 1](https://github.com/user-attachments/assets/879a848c-582c-45d9-b5b3-1d34fd5c70ea)
+
+
+
