@@ -26,5 +26,6 @@ FEATURES
 3. Calculates and display the player's final score
 
 REQUIREMENTS
+
 C++ compiler
 
