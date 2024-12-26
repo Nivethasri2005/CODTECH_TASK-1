@@ -37,6 +37,10 @@ FUTURE IMPROVEMENTS
 OUTPUT
 
 ![output 1](https://github.com/user-attachments/assets/879a848c-582c-45d9-b5b3-1d34fd5c70ea)
+![output 2](https://github.com/user-attachments/assets/33603b52-dd07-4080-8b30-f21f308f732c)
+![output 3](https://github.com/user-attachments/assets/1bd10233-e68b-472e-8b08-63813b3128f3)
+
+
 
 
 
